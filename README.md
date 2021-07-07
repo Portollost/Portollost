@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Portollost
+- 👋 Hi, I’m Gabriel.
 - 👀 I’m interested in Programing, Networking and Cybersecurity.
-- 🌱 I’m currently learning C, JavaScript, Network Fundamentals and Cyber Defense.
+- 🌱 I’m currently learning C, Java, Network Fundamentals and Cyber Defense.
 - 💞️ I’m looking to collaborate on cybersecurity and network analysis related projects.
 - 📫 Where you can reach me:
     - e-mail: gabrielcomonianporto@gmail.com
