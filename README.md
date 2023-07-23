@@ -1,11 +1,18 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Gabriel and I'm a Cyber, from Cyber Security Analyst</h2>
 
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Portollost&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Portollost&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Portollost&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="100" src="https://tryhackme-badges.s3.amazonaws.com/Portolost.png"  />
 
 ###
 
@@ -27,11 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="30" alt="redhat logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://tryhackme-images.s3.amazonaws.com/user-avatars/86c36b493615ea743f5953a2be3ac41b.jpg"  />
 
 ###
 
@@ -51,6 +56,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Portollost/Portollost/output/snake.svg" alt="Snake animation" />
 
