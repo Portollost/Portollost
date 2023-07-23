@@ -1,3 +1,4 @@
+<img src="https://tryhackme-badges.s3.amazonaws.com/Portolost.png" alt="TryHackMe">
 - 👋 Hi, I’m Gabriel.
 - 👀 I’m interested in Programing, Networking and Cybersecurity.
 - 🌱 I’m currently learning C, Java, Network Fundamentals and Cyber Defense.
@@ -5,6 +6,7 @@
 - 📫 Where you can reach me:
     - e-mail: gabrielcomonianporto@gmail.com
     - LinkedIn: https://www.linkedin.com/in/gabriel-comonian-porto-2b023b20b/
+    - TryHackMe: https://tryhackme.com/p/Portolost
 
 <!---
 Portollost/Portollost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
